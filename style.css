@@ -97,6 +97,10 @@ html, body, div {
   font-size: 20px;
 }
 
+#hd nav .hdicon a { 
+  text-decoration: none;
+}
+
 #hd nav .hdicon i {
   margin-right: 40px;
   color: black;
